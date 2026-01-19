@@ -1,7 +1,5 @@
 <h1 align="left">Hey, what's up? I'm Victor Hugo 👋</h1>
 
-###
-
 <p align="left">
   <strong>Software Engineer | Backend-focused</strong><br>
   Based in Brazil 🇧🇷
@@ -15,7 +13,7 @@
   I am a backend-focused Software Engineer dedicated to building scalable, high-performance, and reliable APIs. While <strong>.NET</strong> is my primary ecosystem and daily driver, I also bring a solid background in <strong>Java and Spring Boot.</strong>
 </p>
 
-<h2 align="left">Currently Interests</h2>
+<h3 align="left">Currently Interests</h3>
 <p align="left">
   - Deep diving into <strong>Azure Cloud Services</strong> and solidifying <strong>CS fundamentals</strong>.<br>
   - Practicing <strong>Competitive Programming</strong> to sharpen my problem-solving skills.<br>
@@ -26,8 +24,6 @@
 ###
 
 <h3 align="left">Tech Stack</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
