@@ -1,4 +1,4 @@
-<h1 align="left">Hey, what's up? I'm Victor Hugo 👋</h1>
+<h1 align="left">Victor Linhares</h1>
 
 <p align="left">
   <strong>Software Engineer | Backend-focused</strong><br>
