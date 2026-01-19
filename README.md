@@ -5,17 +5,16 @@
   Based in Brazil 🇧🇷
 </p>
 
-<div>
-  <a href="https://www.linkedin.com/in/victor-hugo-linhares/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
 ###
 
 <p align="left">
   I am a backend-focused Software Engineer dedicated to building scalable, high-performance, and reliable APIs. While <strong>.NET</strong> is my primary ecosystem and daily driver, I also bring a solid background in <strong>Java and Spring Boot.</strong>
 </p>
+<div>
+  <a href="https://www.linkedin.com/in/victor-hugo-linhares/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <h3 align="left">Currently Interests</h3>
 <p align="left">
