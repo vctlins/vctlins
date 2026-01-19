@@ -42,11 +42,3 @@
   <img width="6" />
 </div>
 
-###
-
-<h3 align="left">GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vctlins&show_icons=true&theme=radical&rank_icon=github&display_format=v2" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctlins&layout=compact&theme=radical&hide=html,css" height="150" alt="top langs card" />
-</div>
