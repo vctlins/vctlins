@@ -4,12 +4,13 @@
   <strong>Software Engineer | Backend-focused</strong><br>
   Based in Brazil 🇧🇷
 </p>
-<br>
+
 <div>
   <a href="https://www.linkedin.com/in/victor-hugo-linhares/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
 ###
 
 <p align="left">
