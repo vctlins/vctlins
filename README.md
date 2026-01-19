@@ -41,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img width="6" />
 </div>
+<br>
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/victor-hugo-linhares/" target="_blank">
