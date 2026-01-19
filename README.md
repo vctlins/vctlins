@@ -22,26 +22,19 @@
 
 ###
 
-<h2 align="left">🛠 Tech Stack</h2>
+<h3 align="left">🛠 Tech Stack</h2>
 
 ###
 
-<h3 align="left">Core Backend & Ecosystem</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="dotnet logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" alt="sqlserver logo" />
-  <img width="10" />
-</div>
-
-###
-
-<h3 align="left">Fullstack & Tools</h3>
-<div align="left">
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
@@ -54,9 +47,9 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h3 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-h-linhares&show_icons=true&theme=radical&rank_icon=github&display_format=v2" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-h-linhares&layout=compact&theme=radical&hide=html,css" height="150" alt="top langs card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vctlins&show_icons=true&theme=radical&rank_icon=github&display_format=v2" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctlins&layout=compact&theme=radical&hide=html,css" height="150" alt="top langs card" />
 </div>
