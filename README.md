@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">🚀 About Me</h2>
+<h3 align="left">About Me</h3>
 
 <p align="left">
   I am a backend-focused Software Engineer dedicated to building scalable, high-performance, and reliable APIs. While <strong>.NET</strong> is my primary ecosystem and daily driver, I also bring a solid background in <strong>Java and Spring Boot.</strong>
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🛠 Tech Stack</h2>
+<h3 align="left">Tech Stack</h2>
 
 ###
 
