@@ -13,7 +13,7 @@
 
 <h3 align="left">Currently Interests</h3>
 <p align="left">
-  - Deep diving into <strong>Azure Cloud Services</strong> and solidifying <strong>CS fundamentals</strong>.<br>
+  - Leveling up my Azure skills while doubling down on <strong>CS fundamentals</strong>.<br>
   - Practicing <strong>Competitive Programming</strong> to sharpen my problem-solving skills.<br>
   - Polishing my <strong>English</strong> skills, aiming for C1 proficiency.<br>
   - Learning <strong>Japanese</strong> as a personal challenge.
