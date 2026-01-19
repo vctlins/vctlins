@@ -42,7 +42,6 @@
   <img width="6" />
 </div>
 <br>
-<br>
 
 <div>
   <a href="https://www.linkedin.com/in/victor-hugo-linhares/" target="_blank">
