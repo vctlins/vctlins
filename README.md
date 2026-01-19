@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h2>
+<h3 align="left">GitHub Stats</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vctlins&show_icons=true&theme=radical&rank_icon=github&display_format=v2" height="150" alt="stats card" />
