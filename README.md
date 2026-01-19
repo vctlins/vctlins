@@ -12,12 +12,15 @@
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-  I am a backend-focused Software Engineer dedicated to building <strong>scalable, high-performance, and reliable APIs</strong>. My daily driver is the .NET.
+  I am a backend-focused Software Engineer dedicated to building scalable, high-performance, and reliable APIs. While <strong>.NET</strong> is my primary ecosystem and daily driver, I also bring a solid background in <strong>Java and Spring Boot.</strong>
 </p>
 
+<h2 align="left">Currently Interests</h2>
 <p align="left">
-  <strong>Current Focus:</strong> Deep diving into <strong>Azure Cloud Services</strong> and mastering Distributed Systems.<br>
-  Currently learning <strong>Japanese</strong> and studyng <strong>computer science</strong> fundamentals.
+  - Deep diving into <strong>Azure Cloud Services</strong> and solidifying <strong>CS fundamentals</strong>.<br>
+  - Practicing <strong>Competitive Programming</strong> to sharpen my problem-solving skills.<br>
+  - Polishing my <strong>English</strong> skills, aiming for C1 proficiency.<br>
+  - Learning <strong>Japanese</strong> as a personal challenge.
 </p>
 
 ###
@@ -28,21 +31,25 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
-  <img width="8" />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="dotnet logo" />
-  <img width="8" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot logo" />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo" />
-  <img width="8" />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" alt="sqlserver logo" />
-  <img width="8" />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img width="8" />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
-  <img width="8" />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="8" />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="8" />
+  <img width="6" />
 </div>
 
 ###
