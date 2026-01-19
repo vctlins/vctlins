@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  <strong>Software Engineer | Backend Specialist</strong><br>
+  <strong>Software Engineer | Backend-focused</strong><br>
   Based in Brazil 🇧🇷
 </p>
 
