@@ -19,7 +19,7 @@ Currently, I am pursuing a **B.S. in Information Systems** to further strengthen
 ---
 
 ### Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,azure,aws,mysql,angular" />
   </a>
