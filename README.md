@@ -14,7 +14,7 @@ Currently, I am pursuing a **B.S. in Information Systems** to further strengthen
 
 * Leveling up my **Azure** skills while doubling down on **CS fundamentals**.
 * Practicing **Competitive Programming** to sharpen my problem-solving skills.
-* Polishing my **English** (aiming for C1 proficiency) and learning **Japanese**.
+* Polishing my **English** (aiming for C2 proficiency) and learning **Japanese**.
 
 ---
 
