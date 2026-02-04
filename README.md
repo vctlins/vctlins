@@ -1,27 +1,31 @@
 # Victor Linhares
 
-**Software Engineer | Backend-focused** Based in Brazil 🇧🇷
+**Software Engineer | Backend** — Brazil 🇧🇷
 
 ---
 
-I am a backend-focused **Software Engineer** dedicated to building scalable, high-performance, and reliable APIs. While **.NET** is my daily driver, I also bring a solid background in **Java and Spring Boot**.
+Backend-focused **Software Engineer** with experience building and evolving **robust, scalable, and production-grade systems**. Strong background in designing and maintaining **APIs**, system integrations, and data-intensive workflows, with a focus on stability, performance, and code quality.
 
-Currently, I am pursuing a **B.S. in Information Systems** to further strengthen my technical and analytical foundations.
+I work daily with **.NET**, while also having hands-on experience with **Java and Spring Boot**, applying the same engineering principles across different stacks. Comfortable operating in production environments, collaborating through code reviews, and contributing to continuous technical improvement.
+
+Currently pursuing a **B.S. in Information Systems**, strengthening foundations in software engineering, systems design, and data management.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-linhares/)
 
-### Current Interests
+---
 
-* Leveling up my **Azure** skills while doubling down on **CS fundamentals**.
-* Practicing **Competitive Programming** to sharpen my problem-solving skills.
-* Polishing my **English** (aiming for C2 proficiency) and learning **Japanese**.
+### Focus Areas
+
+- Backend development with **Java (Spring Boot)** and **.NET**, building APIs and integrations between systems.
+- Designing reliable data flows and improving performance in high-volume scenarios.
+- Applying good engineering practices such as **clean code, separation of responsibilities, testing, and code review**.
+- Continuous learning with emphasis on backend architecture, system reliability, and scalability.
 
 ---
 
 ### Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,aws,mysql,postgres,react,angular" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,mysql,redis,react,docker,git" />
   </a>
 </p>
-
